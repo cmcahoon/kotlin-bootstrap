@@ -6,7 +6,7 @@ Clone this repository to have Kotlin + Gradle up and running in no time!
 
 | Tool   | Version | Notes                                                                                          |
 | ------ | ------- | ---------------------------------------------------------------------------------------------- |
-| Kotlin | 1.3.21  |                                                                                                |
+| Kotlin | 1.3.61  |                                                                                                |
 | Gradle | 5.3.1   | Use the wrapper -- no need to install locally                                                  |
 | SLF4J  | 1.7.5   | Only the API is used at compile time -- `log4j` is used as the runtime logging implementation. |
 | log4j  | 2.11.1  |                                                                                                |
