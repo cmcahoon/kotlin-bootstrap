@@ -1,6 +1,6 @@
 plugins {
     application
-    kotlin("jvm") version "1.3.61"
+    kotlin("jvm") version "1.6.10"
 }
 
 repositories {
@@ -17,5 +17,5 @@ dependencies {
 }
 
 application {
-    mainClassName = "MainKt"
+    mainClass.set("MainKt")
 }
